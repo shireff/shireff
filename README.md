@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @shireff </h1>
+- <h1>👋 Hi, I’m shireff </h1>
 
 
 - 👀 A pasionate frontend developer from Egypt ...
