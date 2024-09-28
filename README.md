@@ -10,7 +10,7 @@ I’m looking for a challenging opportunity to enhance my skills and seeking for
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [shireff](https://shireff-nady.vercel.app/)
 * ✉️  You can contact me at [shireffn369@gmail.com](mailto:shireffn369@gmail.com)
-* 🧠  I'm learning NEXT JS
+* 🧠  I'm learning software engineering
 
 ### Skills
 
